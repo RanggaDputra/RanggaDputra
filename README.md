@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranggadputra&label=Profile%20views&color=0e75b6&style=flat" alt="ranggadputra" /> </p>
 
+- 🔭 I’m currently working on [Recipe](https://github.com/RanggaDputra/FrontEndRecipe_rDp)
 
 - ⚡ Fun fact **I am so Bored😅**
 
