@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/RanggaDputra/RanggaDputra/blob/main/banner.png)
 <h1 align="center">Hi 👋,Rangga Dwiputra</h1>
 <h3 align="center">A passionate Fullstack Web & Mobile Developer</h3>
 
